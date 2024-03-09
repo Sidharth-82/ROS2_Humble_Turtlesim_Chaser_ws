@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info
+writing ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build
+creating /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib
+creating /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+copying turtlesim_py_pkg/turtle_spawner.py -> /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+copying turtlesim_py_pkg/turtle_controller.py -> /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+copying turtlesim_py_pkg/__init__.py -> /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg
+running install
+running install_lib
+creating /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+copying /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/turtle_spawner.py -> /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+copying /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/turtle_controller.py -> /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+copying /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/__init__.py -> /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+byte-compiling /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+byte-compiling /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/turtle_controller.py to turtle_controller.cpython-310.pyc
+byte-compiling /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/sid/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index
+creating /home/sid/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index
+creating /home/sid/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+copying resource/turtlesim_py_pkg -> /home/sid/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/sid/turtlesim_ws/install/turtlesim_py_pkg/share/turtlesim_py_pkg
+running install_egg_info
+Copying ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info to /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_controller script to /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+Installing turtle_spawner script to /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+writing list of installed files to '/home/sid/turtlesim_ws/build/turtlesim_py_pkg/install.log'

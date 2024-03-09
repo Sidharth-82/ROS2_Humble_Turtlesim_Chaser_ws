@@ -1,0 +1,22 @@
+[1.413s] Invoking command in '/home/sid/turtlesim_ws/src/turtlesim_py_pkg': PYTHONPATH=/home/sid/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_py_pkg build --build-base /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build install --record /home/sid/turtlesim_ws/build/turtlesim_py_pkg/install.log --single-version-externally-managed
+[1.909s] running egg_info
+[1.909s] writing ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/PKG-INFO
+[1.911s] writing dependency_links to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/dependency_links.txt
+[1.911s] writing entry points to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/entry_points.txt
+[1.911s] writing requirements to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/requires.txt
+[1.911s] writing top-level names to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/top_level.txt
+[1.914s] reading manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[1.915s] writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+[1.915s] running build
+[1.915s] running build_py
+[1.916s] running install
+[1.916s] running install_lib
+[1.918s] running install_data
+[1.919s] running install_egg_info
+[1.921s] removing '/home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.921s] Copying ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info to /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info
+[1.923s] running install_scripts
+[2.001s] Installing turtle_controller script to /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[2.001s] Installing turtle_spawner script to /home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[2.006s] writing list of installed files to '/home/sid/turtlesim_ws/build/turtlesim_py_pkg/install.log'
+[2.095s] Invoked command in '/home/sid/turtlesim_ws/src/turtlesim_py_pkg' returned '0': PYTHONPATH=/home/sid/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/home/sid/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_py_pkg build --build-base /home/sid/turtlesim_ws/build/turtlesim_py_pkg/build install --record /home/sid/turtlesim_ws/build/turtlesim_py_pkg/install.log --single-version-externally-managed

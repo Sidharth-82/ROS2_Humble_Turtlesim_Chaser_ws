@@ -1,0 +1,9 @@
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/uninstall.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/turtlesim_bringup_uninstall.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/test.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/edit_cache.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/rebuild_cache.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/list_install_components.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/install.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/install/local.dir
+/home/sid/turtlesim_ws/build/turtlesim_bringup/CMakeFiles/install/strip.dir
